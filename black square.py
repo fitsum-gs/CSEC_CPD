@@ -6,3 +6,5 @@ def check():
         total+=calories[int(tap)-1]
     print(total)
 check()
+
+#https://codeforces.com/contest/431/problem/A
